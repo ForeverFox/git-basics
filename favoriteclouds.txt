@@ -1,0 +1,5 @@
+cumulonimbus
+nimbostratus
+cumulus
+cirrus
+stratus
